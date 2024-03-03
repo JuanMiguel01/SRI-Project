@@ -1,2 +1,7 @@
-# SRI-Project
-Information Retrieval Systems Project,Computer Science,Fourth Year
+# 
+## Autores
+Amananda Noris Hernández
+
+Juan Miguel Pérez Martínez 
+
+Marcos Antonio Pérez Lorenzo
